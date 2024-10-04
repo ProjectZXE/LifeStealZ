@@ -28,17 +28,17 @@ defaultheart:
     # If you want a slot to be blank, use 'AIR' or 'empty'
     # If you want to use other custom item (like hearts) use the custom item name (e.g. "defaultheart")
     rowOne:
-      - "GOLD_BLOCK"
-      - "GOLD_BLOCK"
-      - "GOLD_BLOCK"
+      - "NETHERITE_BLOCK"
+      - "DIAMOND_BLOCK"
+      - "NETHERITE_BLOCK"
     rowTwo:
-      - "OBSIDIAN"
+      - "DIAMOND_BLOCK"
       - "NETHER_STAR"
-      - "OBSIDIAN"
+      - "DIAMOND_BLOCK"
     rowThree:
+      - "NETHERITE_BLOCK"
       - "DIAMOND_BLOCK"
-      - "DIAMOND_BLOCK"
-      - "DIAMOND_BLOCK"
+      - "NETHERITE_BLOCK"
   sound:
     enabled: true
     sound: ENTITY_PLAYER_LEVELUP # Find all sounds here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
